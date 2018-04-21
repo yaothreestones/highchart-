@@ -1,0 +1,68 @@
+[{
+  "name": "南京",
+  "y": 5,
+  "z": 3,
+  "code": "320100",
+  "drilldown": "南京"
+}, {
+  "name": "苏州",
+  "y": 2,
+  "z": 2,
+  "code": "320200",
+  "drilldown": "苏州"
+}, {
+  "name": "常州",
+  "y": 4,
+  "z": 6,
+  "drilldown": "常州"
+}, {
+  "name": "无锡",
+  "y": 4,
+  "z": 6,
+  "drilldown": "无锡"
+}, {
+  "name": "南通",
+  "y": 4,
+  "z": 6,
+  "drilldown": "南通"
+}, {
+  "name": "盐城",
+  "y": 4,
+  "z": 6,
+  "drilldown": "盐城"
+}, {
+  "name": "连云港",
+  "y": 4,
+  "z": 6,
+  "drilldown": "连云港"
+}, {
+  "name": "泰州",
+  "y": 4,
+  "z": 6,
+  "drilldown": "泰州"
+}, {
+  "name": "镇江",
+  "y": 4,
+  "z": 6,
+  "drilldown": "镇江"
+}, {
+  "name": "宿迁",
+  "y": 4,
+  "z": 6,
+  "drilldown": "宿迁"
+}, {
+  "name": "扬州",
+  "y": 4,
+  "z": 6,
+  "drilldown": "扬州"
+}, {
+  "name": "淮安",
+  "y": 4,
+  "z": 6,
+  "drilldown": "淮安"
+}, {
+  "name": "徐州",
+  "y": 4,
+  "z": 6,
+  "drilldown": "徐州"
+}]
